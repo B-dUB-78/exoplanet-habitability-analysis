@@ -3,7 +3,13 @@ A BigQuery SQL + Tableau case study analyzing exoplanet habitability using tempe
  Exoplanet Habitability Analysis – BigQuery SQL + Tableau Case Study
 By Bobby W. Hayden
 🌍 Overview
+📊 Data Source
 
+This project uses exoplanet data from Kaggle:
+
+Habitable Tidally-Locked Planets Candidates
+by Roy F. Ayala
+🔗 https://www.kaggle.com/datasets/royfayala/habitable-tidally-locked-planets-candidate
 This project analyzes 70+ confirmed exoplanets using NASA-derived datasets to evaluate potential habitability.
 Using Google BigQuery SQL, I cleaned, merged, and explored planetary characteristics such as:
 
